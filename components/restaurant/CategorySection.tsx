@@ -5,7 +5,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 interface CategorySectionProps {
-  id: string;
+  id: number | string;
   title: string;
   items: Array<{
     id: string;
