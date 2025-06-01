@@ -220,7 +220,7 @@ console.log(id, restaurantData);
                       }}
                       id={name}
                       title={name}
-                      items={restaurantData.data[index][name]}
+                      iitems={restaurantData.data[index][name as keyof typeof restaurantData.data[index]]}
                     />
                   );
                 })
