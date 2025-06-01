@@ -12,10 +12,7 @@ interface CategorySectionProps {
     name: string;
     image: string;
     price: string;
-    likePercentage: number;
-    likes?: number;
     tag?: string;
-    description?: string;
   }>;
 }
 
