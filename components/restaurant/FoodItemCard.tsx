@@ -6,20 +6,14 @@ interface FoodItemCardProps {
   name: string;
   image: string;
   price: string;
-  likePercentage: number;
-  likes?: number; 
   tag?: string;
-  description?: string;
 }
 
 const FoodItemCard: React.FC<FoodItemCardProps> = ({
   name,
   image,
   price,
-  likePercentage,
-  likes,
   tag,
-  description
 }) => {
   return (
     <div className="bg-white rounded-lg shadow-sm overflow-hidden w-[280px] hover:shadow-md transition-shadow duration-300">
@@ -43,7 +37,7 @@ const FoodItemCard: React.FC<FoodItemCardProps> = ({
         <h3 className="font-bold text-gray-800 mb-1 truncate">{name}</h3>
         
         {description && (
-          <p className="text-gray-600 text-sm mb-2 line-clamp-2">{description}</p>
+          <p className="text-gray-600 text-sm mb-2 line-clamp-2">desc</p>
         )}
         
         <div className="flex justify-between items-center">
@@ -51,10 +45,10 @@ const FoodItemCard: React.FC<FoodItemCardProps> = ({
           
           <div className="flex items-center">
             <span className="text-sm font-medium text-gray-700 mr-1">
-              {likePercentage || '- '}%
+              88%
             </span>
             <span className="text-sm text-gray-500">
-              ({likes})
+              (99+)
             </span>
           </div>
         </div>
