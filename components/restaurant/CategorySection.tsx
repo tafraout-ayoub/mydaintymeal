@@ -8,7 +8,7 @@ interface CategorySectionProps {
   id: number | string;
   title: string;
   items: Array<{
-    id: string;
+    id: number | string;
     name: string;
     image: string;
     price: string;
