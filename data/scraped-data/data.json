@@ -1,0 +1,930 @@
+[
+    {
+        "city": "agadir",
+        "data": [
+            {
+                "meal_id": "pizza-hut",
+                "meal_name": "Pizza Hut",
+                "meal_category": "Pizza",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(140)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/41d25c22779af0ae1bba7e56be75f28c93a73b2600ec0bf4809cc6a064ba2211?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/pizza-hut-agd/"
+            },
+            {
+                "meal_id": "sushi-fleur-de-ming",
+                "meal_name": "Sushi Fleur de Ming",
+                "meal_category": "Asian",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(258)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d1a490b0d5bdafbc736c5baed889875b2134772f1743e10e0c459235b06bc698?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/sushi-fleur-de-ming/"
+            },
+            {
+                "meal_id": "chickos",
+                "meal_name": "Chicko's",
+                "meal_category": "Chicken",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(245)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/c60ca5d86c35bb6ba544236b7b7dd6e1a91f5ea4a9f4646060778be76e6abdd4?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/chickos/"
+            },
+            {
+                "meal_id": "mini-pecheur",
+                "meal_name": "Mini Pêcheur",
+                "meal_category": "Sandwich",
+                "meal_rating_value": "90%",
+                "meal_rating_number": "(291)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/22c89dabfa241fb6e659bfc63ef6adae4625c4e68cc237f806a0ee5155b4348e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/mini-pecheur/"
+            },
+            {
+                "meal_id": "kyoto-sushi",
+                "meal_name": "Kyoto Sushi",
+                "meal_category": "Asian",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(243)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/74592c4dc5c19595cc8db9f2462d04abc1d452852804571f45a75c7c29ade29f?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/kyoto-sushiagd/"
+            },
+            {
+                "meal_id": "linan-kebab",
+                "meal_name": "Linan Kebab",
+                "meal_category": "Burgers",
+                "meal_rating_value": "95%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/97d3609e9ff9dc716778c1ea361e976a6545adfb58480a3c893aa48cc539b4d6?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/linan-kebab-agdr/"
+            },
+            {
+                "meal_id": "otacos",
+                "meal_name": "O'tacos",
+                "meal_category": "Tacos",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(479)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/36ab30b4715f16a9e1a97774c078f43d31cc264c664b80b8017758973135e477?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/o-tacos-agd-agd/"
+            },
+            {
+                "meal_id": "kc-chocolatier-fleuriste",
+                "meal_name": "Kc Chocolatier & Fleuriste",
+                "meal_category": "Flowers",
+                "meal_rating_value": "90%",
+                "meal_rating_number": "(26)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d57c7b1a42765afd1afcf1bb70ce4c672dd89e36b1879ba5f21ef8ca71143b1d?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/kc-chocolatier-agd/"
+            },
+            {
+                "meal_id": "linan-chicken",
+                "meal_name": "Linan Chicken",
+                "meal_category": "American",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(486)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/4d04fef578c4a408dcea18f42fab91f501de09a7411c97ef4d4b9ca733ea8751?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/linan-kebab/"
+            },
+            {
+                "meal_id": "snack-aferni",
+                "meal_name": "Snack Aferni",
+                "meal_category": "Pizza",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(115)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/1da622e2408babf699f04c28b9b9b09f15128cc2a3c0bb0550a0eb6e2866da40?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/snack-aferni/"
+            },
+            {
+                "meal_id": "saykouk",
+                "meal_name": "Saykouk",
+                "meal_category": "Moroccan",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(224)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/8723a08fa0265b5a66b6c6689ec00d2c318e6f1ef5398f1cdd0aa9c17daeb19a?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/saykouk/"
+            },
+            {
+                "meal_id": "jus-creperie-aferni",
+                "meal_name": "Jus & Crêperie Aferni",
+                "meal_category": "Snacks",
+                "meal_rating_value": "90%",
+                "meal_rating_number": "(41)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/e1693fab205453de36aed18951c6f0d4c590676ec20ae75c745d06afbb51ac20?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/jus-and-creperie-aferni/"
+            },
+            {
+                "meal_id": "pom-pom",
+                "meal_name": "Pom Pom",
+                "meal_category": "Snacks",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(148)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/b5c4bca84faa814115a9ff4afc5a7d0225cc0f36475ded3074f2236aeb1a63d0?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/pom-pom/"
+            },
+            {
+                "meal_id": "binos-restaurant",
+                "meal_name": "BINO'S RESTAURANT",
+                "meal_category": "Burgers",
+                "meal_rating_value": "98%",
+                "meal_rating_number": "(74)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/bf9f9b35f006d2ef2266c4fbd74b1b66e90e903a030bd34ffc49bce8b0e0da3e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/bino-s-pizza-agdr/"
+            },
+            {
+                "meal_id": "tahas-pizzas-by-binos",
+                "meal_name": "Taha's pizzas by bino's",
+                "meal_category": "Pizza",
+                "meal_rating_value": "--",
+                "meal_rating_number": "N/A",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/71ffe2a081ec7f65bad71d10e16a5c30a1f2115ba95fadb98a40ac0a0938210b?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/pizza-taha-by-binos/"
+            },
+            {
+                "meal_id": "rituel",
+                "meal_name": "Rituel",
+                "meal_category": "Grill",
+                "meal_rating_value": "84%",
+                "meal_rating_number": "(28)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/bd4723a79c69b7beaaa2ad92493df49789df27ed2229cb4572b48f54a474ff89?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/rituel-agd/"
+            },
+            {
+                "meal_id": "katai-sushi",
+                "meal_name": "Katai Sushi",
+                "meal_category": "Asian",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(86)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/2fcb1913badb434153289ec97bdf82c96af9d20b40a61b9999a16cb661d927d7?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/wok-su-shi/"
+            },
+            {
+                "meal_id": "dailys",
+                "meal_name": "Daily's",
+                "meal_category": "Burgers",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(50)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/91f71ed57e7bc89b4f6b0d5418b9875dcd36cc30090ee301ac466db131e32d87?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/daily-s-agd/"
+            },
+            {
+                "meal_id": "pollito",
+                "meal_name": "Pollito",
+                "meal_category": "Chicken",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(49)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/f3caf2e04c4c3446f2f89bcbd837fd4829583c0da6cd96ec40ef7e16e09cd31e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/pollito-agadir/"
+            },
+            {
+                "meal_id": "restaurant-casa-de-espana",
+                "meal_name": "Restaurant Casa De España",
+                "meal_category": "Pasta",
+                "meal_rating_value": "61%",
+                "meal_rating_number": "(17)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/c5eadac0848bcac260fcb125bbab2d8c1536317c54a65e5b38e2b86c4dee8315?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/restaurant-casa-de-espana-agd/"
+            },
+            {
+                "meal_id": "snack-farmage",
+                "meal_name": "Snack Farmage",
+                "meal_category": "Sandwich",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(33)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/fb85f38cabc238b0a6b7a5b966388d714a655308fa9d18cd54e3093ec65cea91?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/snack-farmage/"
+            },
+            {
+                "meal_id": "di-mario",
+                "meal_name": "Di Mario",
+                "meal_category": "Italian",
+                "meal_rating_value": "95%",
+                "meal_rating_number": "(123)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/63c4f0cfebae38c69fed2f3464aa8da4fab8293160621f7337361c0f6eb26159?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/di-mario-agd/"
+            },
+            {
+                "meal_id": "mahlabat-le-cuistot",
+                "meal_name": "Mahlabat le cuistot",
+                "meal_category": "Mahlaba",
+                "meal_rating_value": "--",
+                "meal_rating_number": "N/A",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/31ea07df65b436ffa54b9befeeadd6a2b5fe1c1a9403382352ab9096f208ffde?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/mahlabat-le-cuistot-agd/"
+            },
+            {
+                "meal_id": "mahlabat-afolki",
+                "meal_name": "Mahlabat afolki",
+                "meal_category": "Mahlaba",
+                "meal_rating_value": "New",
+                "meal_rating_number": "N/A",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/58bca463f5758ec03c55942697833503cee93f5da4a27d10bd544d3ce5f782ba?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/mahlabat-afolki-agd/"
+            },
+            {
+                "meal_id": "petit-palace",
+                "meal_name": "Petit palace",
+                "meal_category": "Burgers",
+                "meal_rating_value": "--",
+                "meal_rating_number": "N/A",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/4e29d60ca81fc4f85a9406f1ed0c22278a69f814cbc8fb3034e5bf2b42934196?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/petit-palace-agd/"
+            },
+            {
+                "meal_id": "okinawa",
+                "meal_name": "Okinawa",
+                "meal_category": "Asian",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(187)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/ff3be9caa21fc6221167d01ced4e059d477e042bd7055f358bc4b1250320d26e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/okinawa-agd/"
+            },
+            {
+                "meal_id": "cafe-et-snack-diva",
+                "meal_name": "Café Et Snack Diva",
+                "meal_category": "Burgers",
+                "meal_rating_value": "86%",
+                "meal_rating_number": "(49)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/9841e7ea16277a02a8593a9fab51c3c3aa5051bc3811d1f08ec0b973d756d57e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/cafe-et-snack-diva-agd/"
+            },
+            {
+                "meal_id": "mahlabat-ta-just",
+                "meal_name": "Mahlabat ta-just",
+                "meal_category": "Mahlaba",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(105)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/4c77c13d69b845c9b40ef6963f81175aeecc08bd6fd9f98a7657bbb6e3f1bb7c?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/mahlabat-ta-just-agd/"
+            },
+            {
+                "meal_id": "mahlabat-carrito",
+                "meal_name": "Mahlabat Carrito",
+                "meal_category": "Mahlaba",
+                "meal_rating_value": "--",
+                "meal_rating_number": "N/A",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/fe231233bd967b8d66e77affba8299e7b8758d2496fe6656bdd56c2924cd6900?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/mahlabat-carrito-agd-1/"
+            },
+            {
+                "meal_id": "mcdonalds",
+                "meal_name": "McDonald's®",
+                "meal_category": "Burgers",
+                "meal_rating_value": "91%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d4baed2ec75d7b0552ca3572a9520cd4104847d7e33c1e2af0a20e20f026f452?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/mcdonald-s-agdr/"
+            },
+            {
+                "meal_id": "pizza-hut",
+                "meal_name": "Pizza Hut",
+                "meal_category": "Pizza",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(140)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/41d25c22779af0ae1bba7e56be75f28c93a73b2600ec0bf4809cc6a064ba2211?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/pizza-hut-agd/"
+            },
+            {
+                "meal_id": "franks-burgers",
+                "meal_name": "Frank's Burgers",
+                "meal_category": "Burgers",
+                "meal_rating_value": "97%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/e9250f308d6d5a0cc988a06f4a5841c2c3297bcd893f859d0fc6f203c580935e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/franks-burgers/"
+            },
+            {
+                "meal_id": "little-mamma",
+                "meal_name": "Little Mamma",
+                "meal_category": "Italian",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/a39219d05e9b7500b5d3d68c52bc7e00a001e3649ba3aa5b0ef978252c6039f9?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/little-mamma-agadir-agd/"
+            },
+            {
+                "meal_id": "tacos-beldi",
+                "meal_name": "Tacos Beldi",
+                "meal_category": "Chicken",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/9c7a333cb3b46d535efcd68352e200b5f402756589ceffa413523206b4ca3e44?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/tacos-beldi--agd/"
+            },
+            {
+                "meal_id": "la-grillardiere",
+                "meal_name": "La Grillardière",
+                "meal_category": "Grill",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/23048cf775866c7ef373d3ce55c09ef96a6a9d07152a12b09f20fb182fff451d?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/la-grillardiereagd/"
+            },
+            {
+                "meal_id": "sushi-fleur-de-ming",
+                "meal_name": "Sushi Fleur de Ming",
+                "meal_category": "Asian",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(258)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d1a490b0d5bdafbc736c5baed889875b2134772f1743e10e0c459235b06bc698?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/sushi-fleur-de-ming/"
+            },
+            {
+                "meal_id": "chiouates-fes",
+                "meal_name": "Chiouates Fès",
+                "meal_category": "Moroccan",
+                "meal_rating_value": "97%",
+                "meal_rating_number": "(71)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/4641d1315adb8a355db8ed295fb532e9559d94348fffb5decc833b10a9a9d7bc?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/chiouates-fes/"
+            },
+            {
+                "meal_id": "happy-friends",
+                "meal_name": "Happy Friends",
+                "meal_category": "Pizza",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(133)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/96ecdfcd7fc6cfba9ce7b1086f79f16b28d8fa2fe7080b40850a9c5788b6e112?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/happy-friends-agd/"
+            },
+            {
+                "meal_id": "chiche-kabab",
+                "meal_name": "Chiche Kabab",
+                "meal_category": "Oriental",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(380)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/73c4cec7f8e4424d0c3cb1aebb9d909e55ba3db3fa798418837029dcaa01d223?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/chiche-kabab/"
+            },
+            {
+                "meal_id": "friends",
+                "meal_name": "Friends",
+                "meal_category": "Healthy",
+                "meal_rating_value": "97%",
+                "meal_rating_number": "(189)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/4a63f4bea1c2557022570be5d4430aa9bbfb744920f920bb4cdd28526931056d?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/friendsagd/"
+            },
+            {
+                "meal_id": "oh-my-bun",
+                "meal_name": "Oh My Bun !",
+                "meal_category": "American",
+                "meal_rating_value": "98%",
+                "meal_rating_number": "(161)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/b65c9bb011625dd08a2e2f1dd6829269d383ccae99c687c81451e51ffc4a7b36?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/oh-my-buns-agd/"
+            },
+            {
+                "meal_id": "green-light-box",
+                "meal_name": "Green Light Box",
+                "meal_category": "Healthy",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/fd921d7a571b8c0ef5b1a2507dea2c18f2d6626a67948df912a225aa044c7cb5?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/green-light-box/"
+            },
+            {
+                "meal_id": "sama-loubnan",
+                "meal_name": "Sama Loubnan",
+                "meal_category": "Lebanese",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(149)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/c548e0911451d2cf69f41bc0a92bb451f715c3e86b9d52f43a52f40f0668471d?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/sama-loubnan-agd/"
+            },
+            {
+                "meal_id": "the-pita-bar",
+                "meal_name": "The Pita Bar",
+                "meal_category": "Sandwich",
+                "meal_rating_value": "91%",
+                "meal_rating_number": "(142)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/b7eb5cb1201c957a517d7605d9dc4196f310970ce09504c5a3d22676c69f80d1?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/the-pita-bar/"
+            },
+            {
+                "meal_id": "chickos",
+                "meal_name": "Chicko's",
+                "meal_category": "Chicken",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(245)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/c60ca5d86c35bb6ba544236b7b7dd6e1a91f5ea4a9f4646060778be76e6abdd4?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/chickos/"
+            },
+            {
+                "meal_id": "la-boussole",
+                "meal_name": "La Boussole",
+                "meal_category": "Pizza",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(168)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/ed8b3edf0a6b28b0e48ea928e5b9d767d73eef4fbad987d5826e7280fabf99c3?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/la-boussole-agd/"
+            },
+            {
+                "meal_id": "pomodoro",
+                "meal_name": "Pomodoro",
+                "meal_category": "Italian",
+                "meal_rating_value": "95%",
+                "meal_rating_number": "(26)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/c9714ef63eb791de47480100203d036cedd80a11aede5112480e332164ba0d3e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/pomodoroo/"
+            },
+            {
+                "meal_id": "madame-tortilla",
+                "meal_name": "Madame Tortilla",
+                "meal_category": "International",
+                "meal_rating_value": "98%",
+                "meal_rating_number": "(247)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/3e45c300a1236b358bbaef00cbaa3e357acae4f97af6ac8b433c7ca14beb756f?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/madame-tortilla-agd/"
+            },
+            {
+                "meal_id": "mini-pecheur",
+                "meal_name": "Mini Pêcheur",
+                "meal_category": "Sandwich",
+                "meal_rating_value": "90%",
+                "meal_rating_number": "(291)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/22c89dabfa241fb6e659bfc63ef6adae4625c4e68cc237f806a0ee5155b4348e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/mini-pecheur/"
+            },
+            {
+                "meal_id": "quickitchen",
+                "meal_name": "Quickitchen",
+                "meal_category": "Asian",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(175)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/2a8e7a57f752e078e77723d77fee8b80b328525cf0584c76ddc015dc587f3a7b?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/quickitchen/"
+            },
+            {
+                "meal_id": "mister-cook-agadir-bay",
+                "meal_name": "Mister Cook®️ Agadir Bay",
+                "meal_category": "Burgers",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/a5fe5e4808c1cce2b10618694423ce85762ce9a19a984757642706a8961ce2f2?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/agadir/-mistercook--agd/"
+            }
+        ]
+    },
+    {
+        "city": "rabat",
+        "data": [
+            {
+                "meal_id": "tacos-de-lyon",
+                "meal_name": "Tacos de Lyon",
+                "meal_category": "Tacos",
+                "meal_rating_value": "84%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/89d137111dbd62d6173c7863f340e6e528eeaa1da9bca700b0700d375eace318?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/tacos-de-lyon-2/"
+            },
+            {
+                "meal_id": "pizza-hut",
+                "meal_name": "Pizza Hut",
+                "meal_category": "Pizza",
+                "meal_rating_value": "91%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/41d25c22779af0ae1bba7e56be75f28c93a73b2600ec0bf4809cc6a064ba2211?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/pizza-hut-1111111111222222222233333333339/"
+            },
+            {
+                "meal_id": "bocadillos-by-tangiers",
+                "meal_name": "Bocadillos By Tangiers",
+                "meal_category": "Sandwich",
+                "meal_rating_value": "83%",
+                "meal_rating_number": "(487)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/2402b8a824f467aa118dfe648be5ba9f5488f1d9ebc2da4857e9570e7eb6f285?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/bocadillos-by-tangiers-agdal/"
+            },
+            {
+                "meal_id": "sushi-box",
+                "meal_name": "Sushi Box",
+                "meal_category": "Asian",
+                "meal_rating_value": "87%",
+                "meal_rating_number": "(294)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d81120ac0654c9a99e0ff0a1e9b2002a9d1110853310e29aa5df8d6a593ca635?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/sushi-box-3/"
+            },
+            {
+                "meal_id": "chez-ouazzani",
+                "meal_name": "Chez Ouazzani",
+                "meal_category": "Grill",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/fe368833cb025a10c4c3d3a5033161b6aea001820b8bc8c2d39b072647356009?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/chez-ouazzani-rbt/"
+            },
+            {
+                "meal_id": "yoka-sushi",
+                "meal_name": "Yoka Sushi",
+                "meal_category": "Asian",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/337d76365bea57ff7c7ef3bcc01ffb5467bfcce16e5a82e7aed13b6310a5bd48?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/yoka-sushi-2/"
+            },
+            {
+                "meal_id": "pizza-hut",
+                "meal_name": "Pizza Hut",
+                "meal_category": "Pizza",
+                "meal_rating_value": "91%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/41d25c22779af0ae1bba7e56be75f28c93a73b2600ec0bf4809cc6a064ba2211?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/pizza-hut-1111111111222222222233333333339/"
+            },
+            {
+                "meal_id": "bocadillos-by-tangiers",
+                "meal_name": "Bocadillos By Tangiers",
+                "meal_category": "Sandwich",
+                "meal_rating_value": "83%",
+                "meal_rating_number": "(487)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/2402b8a824f467aa118dfe648be5ba9f5488f1d9ebc2da4857e9570e7eb6f285?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/bocadillos-by-tangiers-agdal/"
+            },
+            {
+                "meal_id": "sushi-box",
+                "meal_name": "Sushi Box",
+                "meal_category": "Asian",
+                "meal_rating_value": "87%",
+                "meal_rating_number": "(294)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d81120ac0654c9a99e0ff0a1e9b2002a9d1110853310e29aa5df8d6a593ca635?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/sushi-box-3/"
+            },
+            {
+                "meal_id": "oh-my-bun",
+                "meal_name": "Oh My Bun !",
+                "meal_category": "American",
+                "meal_rating_value": "95%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/cc8d161a9b4cb4cb3a5a609e88a0823a6f3d531274f53da12b522f056967d66d?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/oh-my-bun-rbt/"
+            },
+            {
+                "meal_id": "chez-ouazzani",
+                "meal_name": "Chez Ouazzani",
+                "meal_category": "Grill",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/fe368833cb025a10c4c3d3a5033161b6aea001820b8bc8c2d39b072647356009?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/chez-ouazzani-rbt/"
+            },
+            {
+                "meal_id": "indian-flavors",
+                "meal_name": "Indian Flavors",
+                "meal_category": "Indian",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(68)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/5ad71edcf565cc11814f3241e0ed654821232a17b8a2761f5623d266ea2bfb5f?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/indian-flavors-rbt/"
+            },
+            {
+                "meal_id": "saladbar-green-is-better",
+                "meal_name": "Saladbar Green is Better",
+                "meal_category": "Breakfast",
+                "meal_rating_value": "95%",
+                "meal_rating_number": "(443)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/414e0910702067815e91620ab6135ca675af3772e81e34d0003dfb560af79f8d?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/saladbar-green-is-better/"
+            },
+            {
+                "meal_id": "dunkin",
+                "meal_name": "Dunkin'",
+                "meal_category": "Breakfast",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(485)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/7ce72bfd98377acbf606e437ba0fc26f504eb953a52311e214a1fa149d7c0b04?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/dunkinrbt/"
+            },
+            {
+                "meal_id": "moojood",
+                "meal_name": "Moojood",
+                "meal_category": "Grill",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/edd783bd55ac59b801b5386ff3e40f1d3cc12c9a54576baf3dfd180962301c50?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/moojood-rbt/"
+            },
+            {
+                "meal_id": "liogelato",
+                "meal_name": "Liogelato",
+                "meal_category": "Snacks",
+                "meal_rating_value": "100%",
+                "meal_rating_number": "(23)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/3eabbf7a1f05d05dcf3ad784ee0be60f21b80bb2567343a3edfc42cb72096cab?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/liogelato-rbt/"
+            },
+            {
+                "meal_id": "mitsuki",
+                "meal_name": "Mitsuki",
+                "meal_category": "Asian",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(472)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/baebe7a47278d849511cdcbe4975afcd1aff65a164f9ea576a73040aafe71d49?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/mitsuki-rbt-rbt/"
+            },
+            {
+                "meal_id": "atlas-chicken-agdal",
+                "meal_name": "Atlas Chicken Agdal",
+                "meal_category": "Grill",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/446ed076c56307d27756327289bcf7dc91c5f7aa403f8a5837fb6a4d9ad3fca8?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/atlas-chicken-agdal/"
+            },
+            {
+                "meal_id": "starbucks",
+                "meal_name": "Starbucks®",
+                "meal_category": "Breakfast",
+                "meal_rating_value": "91%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/b4bcc188b5529c657e3de44afbff81fef4186f4ee8c6874a1b4322e2da06bc10?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/starbucks-rbt/"
+            },
+            {
+                "meal_id": "pain-chaud-sandwich",
+                "meal_name": "Pain Chaud Sandwich",
+                "meal_category": "Sandwich",
+                "meal_rating_value": "91%",
+                "meal_rating_number": "(148)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/4f8aab0a08160769c2d2ba1a0c39cf8d3c590463fa29cfcc09aebf7612616978?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/cafe-snack-arc-de-paris-rbt/"
+            },
+            {
+                "meal_id": "ofuego",
+                "meal_name": "O'Fuego",
+                "meal_category": "Grill",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(412)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d90f16373fbfc4ed2153c1e1cb708285944fabff188122b7aba5bf4d29d2feb8?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/ofuego-rbt/"
+            },
+            {
+                "meal_id": "pinchos-arribat-centre",
+                "meal_name": "Pinchos Arribat Centre",
+                "meal_category": "Italian",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(263)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/6976db2654237d6e46f0d68a4873f6ca5c339c8c5b55ea8af7783e934b46605e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/pinchos-test-rbt/"
+            },
+            {
+                "meal_id": "los-burros",
+                "meal_name": "Los Burros",
+                "meal_category": "International",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(162)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/5834cc2918d11bf13cf103c96a40161b6f4d50c4c2960dea70ccacd6567c50ea?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/los-burros-rbt/"
+            },
+            {
+                "meal_id": "tikch-bila",
+                "meal_name": "Tikch & Bila",
+                "meal_category": "Moroccan",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(190)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d342947c7b2d87ee943294fbfb3ed89581683ca47789a29917d729c17a5032ab?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/tikch-bila-rbt/"
+            },
+            {
+                "meal_id": "dar-larita",
+                "meal_name": "Dar Larita",
+                "meal_category": "Moroccan",
+                "meal_rating_value": "83%",
+                "meal_rating_number": "(259)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/e79b481683936872aecfcdc1c93871a324e3e44cc2976c4ed3d25ab9be4e0d50?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/dar-larita-rabat/"
+            },
+            {
+                "meal_id": "japoneza",
+                "meal_name": "Japonezà",
+                "meal_category": "Asian",
+                "meal_rating_value": "97%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/67ad35eaf042351b9d5c361723b82112426342bf4917df1475a6297e4704b5c9?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/japoneza-rbt/"
+            },
+            {
+                "meal_id": "addawk-ashami",
+                "meal_name": "Addawk Ashami",
+                "meal_category": "Oriental",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/06b92eea98007274cfed2cd07c3dd60fad34545b1f4a1fd2ea0dc65b1880af27?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/addawk-ashami-rbt/"
+            },
+            {
+                "meal_id": "metros-de-pizza",
+                "meal_name": "Metros De Pizza",
+                "meal_category": "Pizza",
+                "meal_rating_value": "89%",
+                "meal_rating_number": "(62)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/8a0b6536c342cda78ec4c3a5563c0c4eb4f867a51d586acdb9777fc9141646ee?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/metros-de-pizza/"
+            },
+            {
+                "meal_id": "blueberry-arribat-center",
+                "meal_name": "BlueBerry Arribat Center",
+                "meal_category": "Pizza",
+                "meal_rating_value": "93%",
+                "meal_rating_number": "(145)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/f75144d787ca09567596ec75e19846db2db69d3ad120758a062e1b03957562c1?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/blueberry-arribat/"
+            },
+            {
+                "meal_id": "first-pizza",
+                "meal_name": "First Pizza",
+                "meal_category": "Pizza",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(82)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/00291b789f2fb52e384befc277890e8b9f47c83900e569edcc3056175733085e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/first-pizza-rbt/"
+            },
+            {
+                "meal_id": "kebab-jouha",
+                "meal_name": "Kebab Jouha",
+                "meal_category": "Grill",
+                "meal_rating_value": "87%",
+                "meal_rating_number": "(237)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/4f69062f11a14a99bd7050fda1773f7282a5557b83eb87346535fd5262afebd7?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/kebab-jouha-rabat/"
+            },
+            {
+                "meal_id": "pinchos-atlas",
+                "meal_name": "Pinchos Atlas",
+                "meal_category": "Grill",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(123)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/339b212b2c88f0a247205315bfca24699fd9b6c8b0efdabeba1702e1779332f0?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/pinchos-agdal/"
+            },
+            {
+                "meal_id": "turkit",
+                "meal_name": "Türk’it",
+                "meal_category": "Grill",
+                "meal_rating_value": "90%",
+                "meal_rating_number": "(311)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/0e93b70ec4a65ec41b0e4180a2a2e9c572bfa6e5fa140c4374b968b7cc3c2b01?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/t-rk-it-rbt/"
+            },
+            {
+                "meal_id": "tacos-gourmet",
+                "meal_name": "Tacos Gourmet",
+                "meal_category": "Tacos",
+                "meal_rating_value": "88%",
+                "meal_rating_number": "(57)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/558a33e71253ca55093cf1517ce44ab5af3d788147a871ae5663f91982eaa349?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/tacos-gourmet/"
+            },
+            {
+                "meal_id": "maya-sushi",
+                "meal_name": "Maya Sushi",
+                "meal_category": "Asian",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/fcc7203bf6f4e0aeeb2389d28c43b12150445b8774cb2d913813dbeda2194e81?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/maya-sushi-rbt/"
+            },
+            {
+                "meal_id": "restaurant-dar-morjana",
+                "meal_name": "Restaurant Dar Morjana",
+                "meal_category": "Moroccan",
+                "meal_rating_value": "92%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/fc4ba404efaef8e0b1683d10dc62f52189e8d41403e02df957cfd1b498f6fbf6?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/restaurant-dar-morjana/"
+            },
+            {
+                "meal_id": "restaurant-mawaid-chabab",
+                "meal_name": "Restaurant Mawaid Chabab",
+                "meal_category": "Moroccan",
+                "meal_rating_value": "80%",
+                "meal_rating_number": "(42)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/8911b7705b68f464164976694e174585f95837d7c49910e6fd715827e3c7f37a?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/restaurant-mawaid-chabab-rbt/"
+            },
+            {
+                "meal_id": "barbecue-agdal",
+                "meal_name": "Barbecue Agdal",
+                "meal_category": "Italian",
+                "meal_rating_value": "88%",
+                "meal_rating_number": "(220)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d9c8c4c69359a951cba69bd01d69177393111eae75e67e56f87a3b0e0a08550e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/barbecue-agdal/"
+            },
+            {
+                "meal_id": "pousse-pousse",
+                "meal_name": "Pousse Pousse",
+                "meal_category": "Asian",
+                "meal_rating_value": "90%",
+                "meal_rating_number": "(226)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/36ce9671d1fec54de16f3be557a0c96c1d743eff4d3737cb14f485023a3b1a3c?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/pousse-pousse-rbt/"
+            },
+            {
+                "meal_id": "linstant-ben",
+                "meal_name": "L'instant Ben",
+                "meal_category": "Italian",
+                "meal_rating_value": "87%",
+                "meal_rating_number": "(66)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/d79bcb4469c4328e1c2339c3e6d7bac1735d8a661fea9d8ca51da523eb86cb25?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/linstant-ben/"
+            },
+            {
+                "meal_id": "delish-bun",
+                "meal_name": "Delish Bun",
+                "meal_category": "Burgers",
+                "meal_rating_value": "96%",
+                "meal_rating_number": "(201)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/bbe2816a19c3a1e198e81b74fe8772cd40067b0887117b1ed219ec17f053d99a?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/delish-bun-rbt/"
+            },
+            {
+                "meal_id": "pastaway",
+                "meal_name": "Pastaway",
+                "meal_category": "Italian",
+                "meal_rating_value": "91%",
+                "meal_rating_number": "(500+)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/dfd59b24eedb10c1e36ae98ac5cb0e71b64cc6dd7330aaea9e17f5919d40e911?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/pastaway/"
+            },
+            {
+                "meal_id": "venezia-ice",
+                "meal_name": "Venezia Ice",
+                "meal_category": "Breakfast",
+                "meal_rating_value": "99%",
+                "meal_rating_number": "(48)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/51212e1757a1b44c20dc8ccb7fa9a2efeaa89f9181e527627702113ec8c52472?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/venezia-ice-rbt/"
+            },
+            {
+                "meal_id": "thai-sushi-cuisine",
+                "meal_name": "Thaï Sushi Cuisine",
+                "meal_category": "Asian",
+                "meal_rating_value": "95%",
+                "meal_rating_number": "(173)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/9fe6636fc1ec2b2931ea786bc805a8f4cf2ec6e7f38825132ffa83dc44221d77?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/thai-sushi-cuisine/"
+            },
+            {
+                "meal_id": "adelis",
+                "meal_name": "ADELIS",
+                "meal_category": "Pasta",
+                "meal_rating_value": "89%",
+                "meal_rating_number": "(230)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/8b8973dcacd2c2411d898c331aa93b80f8da90d637ef002b5138538afdeb0a71?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/le-bob-rbt/"
+            },
+            {
+                "meal_id": "upstairs",
+                "meal_name": "Upstairs",
+                "meal_category": "International",
+                "meal_rating_value": "100%",
+                "meal_rating_number": "(47)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/a8b2b875af2c64cc9da5a4059547cd0a6eebeb9e805e734fb3cbf2b7b370695f?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/upstairs-rbt/"
+            },
+            {
+                "meal_id": "otantik-restaurant",
+                "meal_name": "Otantik RESTAURANT",
+                "meal_category": "Burgers",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(62)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/3db87ada74c2a2f7d6e7f20a878cbdde96541c80664ba39e392778222ed95e92?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/otantik-restaurant-rbt/"
+            },
+            {
+                "meal_id": "eathai-rolls",
+                "meal_name": "Eathai ROLLS",
+                "meal_category": "Asian",
+                "meal_rating_value": "94%",
+                "meal_rating_number": "(23)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/a87ce06b625ad3127a0d6036e05ce3d22ecf25df10e3b9a7ad70659da956ad8e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/eathai-rolls-rbt/"
+            },
+            {
+                "meal_id": "sandway",
+                "meal_name": "Sandway",
+                "meal_category": "Sandwich",
+                "meal_rating_value": "90%",
+                "meal_rating_number": "(118)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/a5a20dbeb2d0ee75887be992b5579258389d45079629b880a00ac429f25bfd7e?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/sandway/"
+            },
+            {
+                "meal_id": "coin-burger",
+                "meal_name": "Coin Burger",
+                "meal_category": "Burgers",
+                "meal_rating_value": "81%",
+                "meal_rating_number": "(12)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/c621b634bdfdc872e50f2b811d315c2421dc60e1d98e74a5eac40280b762cb84?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/coin-burger-rbt/"
+            },
+            {
+                "meal_id": "le-chill",
+                "meal_name": "Le Chill",
+                "meal_category": "Pizza",
+                "meal_rating_value": "85%",
+                "meal_rating_number": "(38)",
+                "meal_image_link": "https://glovo.dhmedia.io/image/stores-glovo/stores/b1f5b6c3a611d181a008bf5c6aff71c475d23f082132acba18803783fb58b0af?t=W3siYXV0byI6eyJxIjoibG93In19LHsicmVzaXplIjp7Im1vZGUiOiJmaWxsIiwiYmciOiJ0cmFuc3BhcmVudCIsIndpZHRoIjo1ODgsImhlaWdodCI6MzIwfX1d",
+                "meal_profile_link": "https://glovoapp.com/ma/en/rabat/le-chill-rbt/"
+            }
+        ]
+    }
+]

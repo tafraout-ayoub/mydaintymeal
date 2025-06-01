@@ -1,0 +1,244 @@
+{
+  "restaurants": [
+    {
+      "id": "wendys-downtown",
+      "restaurant": {
+        "name": "Wendy's",
+        "logo": "https://images.pexels.com/photos/4473364/pexels-photo-4473364.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "rating": 4.3,
+        "ratingCount": "200+",
+        "cuisine": "Canadian",
+        "distance": "4.6 mi",
+        "priceRange": "$",
+        "isDashPass": true
+      },
+      "banner": {
+        "images": [
+          "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg",
+          "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg",
+          "https://images.pexels.com/photos/696218/pexels-photo-696218.jpeg"
+        ],
+        "videos": [
+          "https://videos.pexels.com/video-files/2431225/2431225-uhd_2560_1440_24fps.mp4"
+        ]
+      },
+      "featuredItems": [
+        {
+          "id": "1",
+          "name": "BACONATOR® WITH CHEESE COMBO",
+          "image": "https://images.pexels.com/photos/1893556/pexels-photo-1893556.jpeg",
+          "price": "CA$17.07",
+          "likePercentage": 93,
+          "likes": 146,
+          "tag": "#1 Most Liked",
+          "description": "A half-pound of fresh, Canadian beef, melted cheese, 6 slices of crispy bacon"
+        },
+        {
+          "id": "2",
+          "name": "DAVE'S DOUBLE® WITH CHEESE COMBO",
+          "image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg",
+          "price": "CA$16.25",
+          "likePercentage": 91,
+          "likes": 73,
+          "tag": "#2 Most Liked",
+          "description": "A half-pound of fresh Canadian beef, cheese, crisp lettuce, tomato, pickle"
+        },
+        {
+          "id": "3",
+          "name": "CINNABON® PULL-APART",
+          "image": "https://images.pexels.com/photos/3023479/pexels-photo-3023479.jpeg",
+          "price": "CA$5.25",
+          "likePercentage": 91,
+          "likes": 49,
+          "tag": "#3 Most Liked",
+          "description": "Warm, buttery, dough bites baked together with world-famous Cinnabon® cinnamon"
+        },
+        {
+          "id": "4",
+          "name": "SPICY CHICKEN SANDWICH COMBO",
+          "image": "https://images.pexels.com/photos/1627443/pexels-photo-1627443.jpeg",
+          "price": "CA$12.89",
+          "likePercentage": 88,
+          "likes": 36,
+          "description": "Juicy white-meat chicken breast, marinated and breaded in our unique, fiery blend of peppers and spices"
+        },
+        {
+          "id": "5",
+          "name": "10PC CRISPY CHICKEN NUGGETS",
+          "image": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crispy-60616.jpeg",
+          "price": "CA$7.99",
+          "likePercentage": 84,
+          "likes": 24,
+          "description": "100% white-meat chicken breaded and marinated to crispy perfection"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "1",
+          "reviewer": {
+            "initial": "H",
+            "name": "H A"
+          },
+          "date": "4/22/25 • DoorDash order",
+          "rating": 5,
+          "reviewText": "Amazing quality, will be ordering from here more often! Thank you!",
+          "color": "bg-green-500"
+        },
+        {
+          "id": "2",
+          "reviewer": {
+            "initial": "C",
+            "name": "Chris K"
+          },
+          "date": "12/2/24 • DoorDash order",
+          "rating": 5,
+          "reviewText": "Best burgers in town!! Great fries as well. Very tasty",
+          "color": "bg-red-400"
+        },
+        {
+          "id": "3",
+          "reviewer": {
+            "initial": "A",
+            "name": "Arlen F"
+          },
+          "date": "2/15/25 • DoorDash order",
+          "rating": 2,
+          "reviewText": "When did they change the recipe? It tasted off and portions seemed small but I do like the quick service.",
+          "color": "bg-blue-500"
+        },
+        {
+          "id": "4",
+          "reviewer": {
+            "initial": "J",
+            "name": "Jenny T"
+          },
+          "date": "3/1/25 • DoorDash order",
+          "rating": 4,
+          "reviewText": "Burgers always hit the spot! Wish the fries were a bit crispier though.",
+          "color": "bg-purple-500"
+        }
+      ],
+      "menuSections": [
+        { "id": "featured", "name": "Featured Items", "active": true },
+        { "id": "reviews", "name": "Reviews", "active": false },
+        { "id": "ordered", "name": "Most Ordered", "active": false },
+        { "id": "combos", "name": "Combos", "active": false },
+        { "id": "cheeseburgers", "name": "Cheeseburgers", "active": false },
+        { "id": "chicken", "name": "Chicken, Wraps & More", "active": false },
+        { "id": "salads", "name": "Fresh-made Salads", "active": false },
+        { "id": "quality", "name": "Quality Choices", "active": false },
+        { "id": "kids", "name": "Wendy's Kids' Meals", "active": false }
+      ]
+    },
+    {
+      "id": "mcdonalds-center",
+      "restaurant": {
+        "name": "McDonald's",
+        "logo": "https://images.pexels.com/photos/2253643/pexels-photo-2253643.jpeg",
+        "rating": 4.1,
+        "ratingCount": "350+",
+        "cuisine": "American",
+        "distance": "2.3 mi",
+        "priceRange": "$",
+        "isDashPass": true
+      },
+      "banner": {
+        "images": [
+          "https://images.pexels.com/photos/1058277/pexels-photo-1058277.jpeg",
+          "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg"
+        ],
+        "videos": []
+      },
+      "featuredItems": [
+        {
+          "id": "1",
+          "name": "BIG MAC COMBO",
+          "image": "https://images.pexels.com/photos/1639556/pexels-photo-1639556.jpeg",
+          "price": "CA$14.99",
+          "likePercentage": 89,
+          "likes": 234,
+          "tag": "#1 Most Liked",
+          "description": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun"
+        },
+        {
+          "id": "2",
+          "name": "QUARTER POUNDER WITH CHEESE",
+          "image": "https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg",
+          "price": "CA$13.25",
+          "likePercentage": 87,
+          "likes": 189,
+          "tag": "#2 Most Liked",
+          "description": "Quarter pound of 100% beef, cheese, pickles, onions, ketchup and mustard"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "1",
+          "reviewer": {
+            "initial": "M",
+            "name": "Mike S"
+          },
+          "date": "5/15/25 • DoorDash order",
+          "rating": 4,
+          "reviewText": "Classic McDonald's taste. Always consistent and fast delivery.",
+          "color": "bg-yellow-500"
+        }
+      ],
+      "menuSections": [
+        { "id": "featured", "name": "Featured Items", "active": true },
+        { "id": "reviews", "name": "Reviews", "active": false },
+        { "id": "burgers", "name": "Burgers", "active": false },
+        { "id": "chicken", "name": "Chicken & Fish", "active": false }
+      ]
+    },
+    {
+      "id": "subway-mall",
+      "restaurant": {
+        "name": "Subway",
+        "logo": "https://images.pexels.com/photos/1603899/pexels-photo-1603899.jpeg",
+        "rating": 4.0,
+        "ratingCount": "125+",
+        "cuisine": "Sandwiches",
+        "distance": "3.1 mi",
+        "priceRange": "$",
+        "isDashPass": false
+      },
+      "banner": {
+        "images": [
+          "https://images.pexels.com/photos/1600714/pexels-photo-1600714.jpeg"
+        ],
+        "videos": []
+      },
+      "featuredItems": [
+        {
+          "id": "1",
+          "name": "ITALIAN B.M.T.®",
+          "image": "https://images.pexels.com/photos/1600713/pexels-photo-1600713.jpeg",
+          "price": "CA$8.99",
+          "likePercentage": 85,
+          "likes": 67,
+          "tag": "#1 Most Liked",
+          "description": "Genoa salami, spicy pepperoni and Black Forest ham"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "1",
+          "reviewer": {
+            "initial": "S",
+            "name": "Sarah L"
+          },
+          "date": "3/20/25 • DoorDash order",
+          "rating": 4,
+          "reviewText": "Fresh ingredients and quick service. Love the customization options!",
+          "color": "bg-green-600"
+        }
+      ],
+      "menuSections": [
+        { "id": "featured", "name": "Featured Items", "active": true },
+        { "id": "reviews", "name": "Reviews", "active": false },
+        { "id": "subs", "name": "Footlong Subs", "active": false }
+      ]
+    }
+  ]
+}

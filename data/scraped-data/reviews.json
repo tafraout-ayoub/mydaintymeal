@@ -1,0 +1,46 @@
+[
+        {
+          "id": "1",
+          "reviewer": {
+            "initial": "H",
+            "name": "H A"
+          },
+          "date": "4/22/25 • DoorDash order",
+          "rating": 5,
+          "reviewText": "Amazing quality, will be ordering from here more often! Thank you!",
+          "color": "bg-green-500"
+        },
+        {
+          "id": "2",
+          "reviewer": {
+            "initial": "C",
+            "name": "Chris K"
+          },
+          "date": "12/2/24 • DoorDash order",
+          "rating": 5,
+          "reviewText": "Best burgers in town!! Great fries as well. Very tasty",
+          "color": "bg-red-400"
+        },
+        {
+          "id": "3",
+          "reviewer": {
+            "initial": "A",
+            "name": "Arlen F"
+          },
+          "date": "2/15/25 • DoorDash order",
+          "rating": 2,
+          "reviewText": "When did they change the recipe? It tasted off and portions seemed small but I do like the quick service.",
+          "color": "bg-blue-500"
+        },
+        {
+          "id": "4",
+          "reviewer": {
+            "initial": "J",
+            "name": "Jenny T"
+          },
+          "date": "3/1/25 • DoorDash order",
+          "rating": 4,
+          "reviewText": "Burgers always hit the spot! Wish the fries were a bit crispier though.",
+          "color": "bg-purple-500"
+        }
+      ]
