@@ -1,20 +1,7 @@
-
 import React from 'react';
 import { PlusCircle } from 'lucide-react';
 
-interface FoodItemCardProps {
-  name: string;
-  image: string;
-  price: string;
-  tag?: string;
-}
-
-const FoodItemCard: React.FC<FoodItemCardProps> = ({
-  name,
-  image,
-  price,
-  tag,
-}) => {
+const FoodItemCard = ({ name, image, price, tag }) => {
   return (
     <div className="bg-white rounded-lg shadow-sm overflow-hidden w-[280px] hover:shadow-md transition-shadow duration-300">
       <div className="relative h-40">
@@ -36,7 +23,8 @@ const FoodItemCard: React.FC<FoodItemCardProps> = ({
       <div className="p-3">
         <h3 className="font-bold text-gray-800 mb-1 truncate">{name}</h3>
         
-        {description && (
+        {/* Note: 'description' is not in your props but appears in the JSX */}
+        {false && ( // Disabled since description isn't a prop
           <p className="text-gray-600 text-sm mb-2 line-clamp-2">desc</p>
         )}
         
