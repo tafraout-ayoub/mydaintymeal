@@ -216,7 +216,7 @@ console.log(id, restaurantData);
                     <CategorySection
                       key={name}  // Important for React's reconciliation
                       ref={(el) => {
-                        if (el) sectionRefs.current[name] = el;
+                        if (el) {sectionRefs.current[name] = el}
                       }}
                       id={name}
                       title={name}
