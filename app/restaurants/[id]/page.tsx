@@ -15,29 +15,20 @@ import MobileRestaurantInfo from '@/components/restaurant/MobileRestaurantInfo';
 import Sidebar from '@/components/sidebar';
 import profilesRestaurantsData from 'data/scraped-data/profile-data.json';
 import reviews from '@/data/scraped-data/reviews.json';
-import { log } from 'console';
 
-
-
-interface RestaurantProfileProps {
-  params: {
-    id: string;
-  };
-}
-
-const RestaurantProfile = ({ params }: RestaurantProfileProps) => {
+const RestaurantProfile = ({ params }) => {
   const { id } = params;
   const [showStickyHeader, setShowStickyHeader] = useState(false);
-  const [menuItems, setMenuItems] = useState<Array<{id: string; name: string; active: boolean}>>([]);
-  const contentRef = useRef<HTMLDivElement>(null);
-  const sidebarRef = useRef<HTMLDivElement>(null);
-  const sectionRefs = useRef<Record<string, HTMLDivElement | null>>({});
+  const [menuItems, setMenuItems] = useState([]);
+  const contentRef = useRef(null);
+  const sidebarRef = useRef(null);
+  const sectionRefs = useRef({});
   const isMobile = useIsMobile();
   const [expandedDescription, setExpandedDescription] = useState(false);
 
   // Find the restaurant data based on the ID from URL params
   const restaurantData = profilesRestaurantsData.find(r => r.id === id);
-console.log(id, restaurantData);
+  console.log(id, restaurantData);
 
   // Initialize menu items when restaurant data is loaded
   useEffect(() => {
@@ -60,7 +51,7 @@ console.log(id, restaurantData);
   }, []);
 
   // Function to handle menu item clicks and scroll to appropriate section
-  const handleMenuItemClick = (sectionId: string) => {
+  const handleMenuItemClick = (sectionId) => {
     // Update active state
     setMenuItems(items => 
       items.map(item => ({
@@ -98,14 +89,17 @@ console.log(id, restaurantData);
   }
 
   const { store_cover, data } = restaurantData;
-  const restaurant = {'id': restaurantData.name,
-    'name': restaurantData.name, 'logo': restaurantData.store_logo,
-    'rating':Number(restaurantData.store_rating), "ratingCount": "99+",
+  const restaurant = {
+    'id': restaurantData.name,
+    'name': restaurantData.name, 
+    'logo': restaurantData.store_logo,
+    'rating': Number(restaurantData.store_rating), 
+    "ratingCount": "99+",
     "cuisine": restaurantData.name,
     "priceRange": "$",
     "isDashPass": true,
     "distance": " - mi",
-      }
+  };
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -188,15 +182,6 @@ console.log(id, restaurantData);
             
             {/* Main content */}
             <div className="w-full md:w-3/4 lg:w-4/5">
-              {/* Featured Items */}
-              {/* <CategorySection
-              key={'Top sellers'}
-                ref={el => sectionRefs.current['Top sellers'] = el}
-                id={Object.keys(data[0]).toString()}
-                title={Object.keys(data[0]).toString()}
-                items={restaurantData.data[0]['Top sellers']}
-              /> */}
-              
               {/* Reviews Section */}
               <div ref={el => sectionRefs.current['reviews'] = el}>
                 <ReviewSection 
@@ -206,60 +191,20 @@ console.log(id, restaurantData);
                 />
               </div>
 
-              {
-                restaurantData.menuSections.map((section, index) => {
-                  const name = section.name;
-                  // Optional: Add null check if name might be undefined
-                  // if (!name || !restaurantData.data[name]) return null;
-
-                  return (
-                    <CategorySection
-                      key={name}  // Important for React's reconciliation
-                      ref={(el) => {
-                        if (el) {sectionRefs.current[name] = el}
-                      }}
-                      id={name}
-                      title={name}
-                      items={restaurantData.data[index][name]}
-                    />
-                  );
-                })
-}
-
-              {/* Most Ordered */}
-              {/* <CategorySection
-                ref={el => sectionRefs.current['ordered'] = el}
-                id="ordered"
-                title="Most Ordered"
-                items={featuredItems.slice(0, 3)}
-              /> */}
-
-              {/* Combos */}
-              {/* <CategorySection
-                ref={el => sectionRefs.current['combos'] = el}
-                id="combos"
-                title="Combos"
-                items={featuredItems.slice(1, 4)}
-              /> */}
-
-              {/* Additional menu sections based on available data */}
-              {/* {featuredItems.length > 2 && (
-                <CategorySection
-                  ref={el => sectionRefs.current['cheeseburgers'] = el}
-                  id="cheeseburgers"
-                  title="Cheeseburgers"
-                  items={featuredItems.slice(0, 2)}
-                />
-              )} */}
-
-              {/* {featuredItems.length > 3 && (
-                <CategorySection
-                  ref={el => sectionRefs.current['chicken'] = el}
-                  id="chicken"
-                  title="Chicken, Wraps & More"
-                  items={[featuredItems[featuredItems.length - 1]]}
-                />
-              )} */}
+              {restaurantData.menuSections.map((section, index) => {
+                const name = section.name;
+                return (
+                  <CategorySection
+                    key={name}
+                    ref={(el) => {
+                      if (el) {sectionRefs.current[name] = el}
+                    }}
+                    id={name}
+                    title={name}
+                    items={restaurantData.data[index][name]}
+                  />
+                );
+              })}
             </div>
           </div>
         </div>
